@@ -1,22 +1,14 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
-
 <h3 align="center">HearthShare</h3>
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/irish3725/HearthShare/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/irish3725/HearthShare/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> HearthShare is a free, locally-hosted code sharing environment meant to allow people to effectively write code together from different locations.
     <br> 
 </p>
 
@@ -28,7 +20,6 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-HearthShare is a free, locally-hosted code sharing environment meant to allow people to effectively write code together from different locations.
 
 [I](https://www.linkedin.com/in/alexander-irish/) began  this project because I couldn't find a free online shared text editor that I liked while doing technical interview practice with some friends.
 
