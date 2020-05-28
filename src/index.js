@@ -1,4 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-ReactDOM.render(<h1>HearthShare</h1>, document.getElementById('root'));
+import App from './App';
+
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
+//ReactDOM.render(<p>root</p>, document.getElementById('root'));
