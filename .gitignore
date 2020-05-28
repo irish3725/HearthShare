@@ -1,0 +1,7 @@
+
+# react ignore
+node_modules/
+
+# build ignore
+build/
+
