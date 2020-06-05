@@ -1,10 +1,14 @@
 import React from 'react';
 
+import './Header.css';
 
 const Header = () => {
   return(
-    <div className='header'>
-      <h1>HearthShare Header</h1> </div>
+    <div className='Header'>
+      <a href="https://www.github.com/irish3725/HearthShare">
+        <h3 href="www.archlinux.org">HearthShare</h3> 
+      </a>
+    </div>
   );
 }
 

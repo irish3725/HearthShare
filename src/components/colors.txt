@@ -1,0 +1,7 @@
+
+background:     Independence      -   #394053
+background-alt: Black Olive       -   #423e3b
+title:          Sizzling Red      -   #e84855
+foreground:     Persian Orange    -   #423e3b
+foreground-alt: Metallic Seaweed  -   #423e3b
+

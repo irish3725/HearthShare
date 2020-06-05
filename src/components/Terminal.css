@@ -1,0 +1,13 @@
+
+.terminal {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #177e89;
+  background: #394053;
+  height: 100%;
+  width: 30%;
+
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
